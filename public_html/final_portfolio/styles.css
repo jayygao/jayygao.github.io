@@ -369,7 +369,7 @@ h3 {
 
     @media (max-width:768px) {
         ul {
-            margin-right:0px;
+            margin-right:40px;
             display: flex;
             flex-direction: column;
             justify-items: center;
