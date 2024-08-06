@@ -229,6 +229,18 @@ h1 {
     }
 }
 
+@media (max-width: 768px) {
+    .action {
+        a {
+            margin-top: 10px;
+        }
+        margin-bottom: 0px;
+    }
+    .socials {
+        margin-left: 5px;
+    }
+}
+
 .main-blue {
     display: flex;
     flex-direction: column;
