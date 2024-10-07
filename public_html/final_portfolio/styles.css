@@ -239,6 +239,9 @@ h1 {
     .socials {
         margin-left: 5px;
     }
+    .skibidi {
+	    display: none;
+    }
 }
 
 .main-blue {
